@@ -1,0 +1,48 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    margin: 0%;
+}
+h1{
+    font size: 100px;
+}
+.text{
+    color: orangered;
+}
+.half-width{
+    width: 50%;
+    float: left;
+ 
+}
+p{
+    color: dimgray;
+}
+.half-width img{
+    width: 65%;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-color: seashell;
+    padding: 10px 20px;
+    border-radius: 1opx;
+    color: black;
+}
+section{
+    height: 500px;
+    scroll-padding-bottom: 300px;
+}
+.link-button{
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 38, 0);
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: rgb(137, 196, 214);
+    font-weight: 700;
+    
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
