@@ -6,7 +6,7 @@ h1{
     font size: 100px;
 }
 .text{
-    color: orangered;
+    color: rgba(31, 114, 6, 0.938);
 }
 .half-width{
     width: 50%;
