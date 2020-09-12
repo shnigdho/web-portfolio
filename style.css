@@ -2,11 +2,10 @@ body{
     font-family: 'Architects Daughter', cursive;
     margin: 0%;
 }
-h1{
-    font size: 100px;
-}
+
 .text{
     color: rgba(31, 114, 6, 0.938);
+    margin-left: 5%;
 }
 .half-width{
     width: 50%;
@@ -14,7 +13,9 @@ h1{
  
 }
 p{
-    color: dimgray;
+    color: indigo;
+    padding: 5%;
+    font-size: 20px;
 }
 .half-width img{
     width: 65%;
@@ -45,4 +46,23 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.push{
+    padding: 5px;
+    margin-left: 5%;
+}
+h1{
+    margin-left: 10%;
+}
+.extra{
+    box-shadow: 5px 5px 40px rgb(6, 73, 53);
+    border-radius: 5%;
+    height: 70%;
+
+    
+}
+.free{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
